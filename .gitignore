@@ -1,0 +1,19 @@
+# Data files
+data/
+*.csv
+*.parquet
+
+# Python virtual environments
+venv/
+.env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets (add this!)
+*.env
+credentials.json
