@@ -107,3 +107,5 @@ Designed Athlete360 framework for integration into athlete monitoring dashboards
 * Prioritize Explainable AI for Trust and Adoption - Ensure transparency of model decisions using explainability tools so that coaching staff understand and trust the basis for recommendations.
 
 * Pilot and Scale Gradually - Start with a pilot implementation on a selected team or training phase, assess impact, then scale the system across departments and seasons for maximum value.
+
+## User Interface Dashboard link - https://huggingface.co/spaces/localhost2002/athlete360
