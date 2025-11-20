@@ -108,4 +108,5 @@ Designed Athlete360 framework for integration into athlete monitoring dashboards
 
 * Pilot and Scale Gradually - Start with a pilot implementation on a selected team or training phase, assess impact, then scale the system across departments and seasons for maximum value.
 
-## User Interface Dashboard link - https://huggingface.co/spaces/localhost2002/athlete360
+## User Interface Dashboard link
+https://huggingface.co/spaces/localhost2002/athlete360
